@@ -1,0 +1,16 @@
+1. variabel paling berpengaruh
+2. atribut setelah proses imputasi nilai (done)
+3. deskriptif statistik (done)
+4. jumlah variabel target  (done)
+5. feature scaling 
+6. heatmap (done)
+7. hasil score pengujian
+
+
+8. komparasi teknik-teknik ensemble:
+bagging
+stacking 
+voting
+ - hard voting
+ - soft voting
+
