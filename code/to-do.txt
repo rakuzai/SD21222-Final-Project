@@ -1,16 +1,18 @@
-1. variabel paling berpengaruh
-2. atribut setelah proses imputasi nilai (done)
-3. deskriptif statistik (done)
-4. jumlah variabel target  (done)
-5. feature scaling 
-6. heatmap (done)
-7. hasil score pengujian
+komparasi teknik bagging, boosting dan stacking
 
+bagging:
+random forest
 
-8. komparasi teknik-teknik ensemble:
-bagging
-stacking 
-voting
- - hard voting
- - soft voting
+boosting:
+catboost
 
+stacking:
+    base model:
+        - knn
+        - naive bayes
+        - lgbm
+        - svm
+        - xgboost
+        - random forest
+    meta model:
+        - lr
